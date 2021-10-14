@@ -41,7 +41,7 @@ echo "dang sac" %%d
 echo "dang sac" 100000000
 
 echo ------------------------
-echo ------cre VHA ----------
+echo ------cre LTV ----------
 echo ------------------------
 
 
